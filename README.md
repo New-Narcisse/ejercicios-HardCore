@@ -1,0 +1,2 @@
+# ejercicios-HardCore
+Entrenamiento imposible
